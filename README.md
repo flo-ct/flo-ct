@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**flo-ct/flo-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying software development at Epitech and working toward becoming a professional software developer. I am currently looking for an apprenticeship starting September 2026.
 
-Here are some ideas to get you started:
+#### Languages, frameworks and tools I've used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img width="40" src="https://skillicons.dev/icons?i=ts" />
+  <img width="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="40" src="https://skillicons.dev/icons?i=vue" />
+  <img width="40" src="https://skillicons.dev/icons?i=js" />
+  <img width="40" src="https://skillicons.dev/icons?i=git" />
+</p>
+
+#### Currently learning
+
+<p>
+  <img width="40" src="https://skillicons.dev/icons?i=java" />
+  <img width="40" src="https://skillicons.dev/icons?i=spring" />
+  <img width="40" src="https://skillicons.dev/icons?i=angular" />
+</p>
